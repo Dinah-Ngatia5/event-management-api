@@ -8,7 +8,6 @@ def seed_db():
     users = [
         {'username': 'john_vick', 'email': 'john@gmail.com', 'password': 'password123'},
         {'username': 'dainah', 'email': 'dinahngatia86@gmail.com', 'password': 'password123'},
-        # Add more users if needed
     ]
 
     for user_data in users:
