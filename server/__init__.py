@@ -4,7 +4,7 @@ from .extensions import db, migrate, bcrypt, login_manager
 from .models import User
 from .routes import main
 from .auth import auth
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
 def create_app():
     app = Flask(__name__)
