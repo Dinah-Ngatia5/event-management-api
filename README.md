@@ -4,24 +4,22 @@ This document provides a comprehensive guide to setting up, configuring, and usi
 
 ## Table of Contents
 
-- [Feature](@)
-- [Installation](@)
-- [Configuration](@)
-- [Usage](@)
-  - [Running the Application](@)
-  - [Running with Docker(Optional)](@)
-- [API Endpoints](@)
-  - [Authentication](@)
-    - [Sign Up](@)
-    - [Login](@)
-    - [Logout](@)
-- [Example Requests](@)
-  - [Using `curl` for API Requests](@)
-    - [Sign Up:](@)
-    - [Login:](@)
-    - [Logout:](@)
-- [Contributing](@)
-- [License](@)
+- [Features](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#features)
+- [Installation](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#installation)
+- [Configuration](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#configuration)
+- [Usage](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#usage)
+- [API Endpoints](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#api-endpoints)
+  - [Authentication](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#authentication)
+    - [Sign Up](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#signup)
+    - [Login](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#login)
+    - [Logout](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#logout)
+- [Example Requests](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#example-requests)
+  - [Using `curl` for API Requests](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#using-curl-for-api-requests)
+    - [Sign Up:](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#sign-up)
+    - [Login:](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#login-1)
+    - [Logout:](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#logout-1)
+- [Contributing](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#contributing)
+- [License](https://github.com/Dinah-Ngatia5/event-management-api?tab=readme-ov-file#license)
 
 ## Features
 
@@ -38,7 +36,7 @@ This document provides a comprehensive guide to setting up, configuring, and usi
 - Use the following command to clone the repository to your local machine:
   
 ```bash
-git clone https://github.com/Dinah-Ngatia5/event-management-api.git
+git@github.com:Dinah-Ngatia5/event-management-api.git
 cd event-management-api
 ```
 
@@ -212,8 +210,8 @@ curl -X GET http://localhost:5000/logout
 
 ## Contributing
 
-Please feel to send me a [pull request](@) or open an [issue](@) incase of any bugs.
+Please feel to send me a [pull request](https://github.com/Dinah-Ngatia5/event-management-api/pulls) or open an [issue](https://github.com/Dinah-Ngatia5/event-management-api/issues) incase of any bugs.
 
 ## License 
 
-See [MIT Licensed](@)
+See [MIT Licensed](https://github.com/Dinah-Ngatia5/event-management-api/blob/main/LICENSE)
