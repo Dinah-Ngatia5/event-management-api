@@ -120,7 +120,7 @@ docker run -p 5000:5000 event-management-api
 ```json
 {
     "username": "your_username",
-    "email": "your_email@example.com",
+    "email": "your_email@gmail.com",
     "password": "your_password"
 }
 
@@ -143,7 +143,7 @@ docker run -p 5000:5000 event-management-api
   
 ```json
 {
-    "email": "your_email@example.com",
+    "email": "your_email@gmail.com",
     "password": "your_password"
 }
 
@@ -210,7 +210,7 @@ curl -X GET http://localhost:5000/logout
 
 ## Contributing
 
-Please feel to send me a [pull request](https://github.com/Dinah-Ngatia5/event-management-api/pulls) or open an [issue](https://github.com/Dinah-Ngatia5/event-management-api/issues) incase of any bugs.
+Please feel to send me a [pull request](https://github.com/Dinah-Ngatia5/event-management-api/pulls) or open an [issue](https://github.com/Dinah-Ngatia5/event-management-api/issues) for bug fixes.
 
 ## License 
 
