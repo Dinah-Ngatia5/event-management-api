@@ -210,7 +210,7 @@ curl -X GET http://localhost:5000/logout
 
 ## Contributing
 
-Please feel to send me a [pull request](https://github.com/Dinah-Ngatia5/event-management-api/pulls) or open an [issue](https://github.com/Dinah-Ngatia5/event-management-api/issues) for bug fixes.
+Please feel free to send me a [pull request](https://github.com/Dinah-Ngatia5/event-management-api/pulls) or open an [issue](https://github.com/Dinah-Ngatia5/event-management-api/issues) for bug fixes.
 
 ## License 
 
