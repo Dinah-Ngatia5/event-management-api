@@ -82,7 +82,7 @@ Configuration settings are managed in the `server/config.py` file. Here are the 
 
 - `SQLALCHEMY_DATABASE_URI`: The URI of the database to connect to.
 - `SECRET_KEY`: A secret key used for session management and other security-related features.
-- `SQLALCHEMY_TRACK_MODIFICATIONS`: Set this to `False` to disable modification tracking and save resources.
+- `SQLALCHEMY_TRACK_MODIFICATIONS`: Is set to `False` to disable modification tracking and save resources.
 
 ## Usage
 
