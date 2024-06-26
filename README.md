@@ -70,7 +70,7 @@ flask db upgrade
 
 5. **Seed the database**:
 
-- I have a `seed.py` file to populate the database with initial data, run this command:
+- I have a `seed.py` file, to populate the database with initial data, run this command:
 
 ```bash
 python seed.py
