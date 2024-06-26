@@ -48,7 +48,7 @@ def signup():
 
         hashed_password = bcrypt.generate_password_hash(password).decode('utf-8')
         new_user = User(username=username, email=email)
-        new_user.password_hash = hashed_password  # Assuming your User model uses password_hash to store the hashed password
+        new_user.password_hash = hashed_password  
 
         try:
             db.session.add(new_user)
