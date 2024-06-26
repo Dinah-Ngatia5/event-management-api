@@ -1,6 +1,7 @@
 # Event Management API
 
-This document provides a comprehensive guide to setting up, configuring, and using the backend API for an event management system. The API is built using Flask, SQLAlchemy, and Flask-Login, and allows for user authentication and event management.
+- This document provides a comprehensive guide to setting up, configuring, and using the backend API for an event management system. The API is built using Flask, SQLAlchemy, and Flask-Login, and allows for user authentication and event management.
+- [Here](https://github.com/Dinah-Ngatia5/event-management-system.git) is the link to the `front end code repository` for the full-stack Eventspark website project.
 
 ## Table of Contents
 
